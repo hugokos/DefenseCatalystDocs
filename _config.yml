@@ -1,0 +1,58 @@
+# Defense Catalyst Documentation Site Configuration
+
+# Site settings
+title: Defense Catalyst Documentation
+description: AI-powered workflow automation for defense operations
+baseurl: "/DefenseCatalystDocs"
+url: "https://yourusername.github.io"  # UPDATE THIS with your GitHub username
+
+# Theme
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+
+# SEO
+author: Defense Catalyst Team
+logo: /assets/images/logo.png
+
+# Social (optional)
+# twitter:
+#   username: defensecatalyst
+#   card: summary
+# github:
+#   repository_url: https://github.com/yourusername/DefenseCatalystDocs
+
+# Analytics (optional - add your tracking ID)
+# google_analytics: G-XXXXXXXXXX
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

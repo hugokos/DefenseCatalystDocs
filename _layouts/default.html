@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </header>
+
+    <nav class="site-nav">
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/getting-started">Getting Started</a></li>
+        <li><a href="{{ site.baseurl }}/integrations-directory">Integrations</a></li>
+        <li><a href="{{ site.baseurl }}/troubleshooting-hub">Troubleshooting</a></li>
+        <li><a href="{{ site.baseurl }}/contact-support">Support</a></li>
+      </ul>
+    </nav>
+
+    <main id="content" class="main-content" role="main">
+      {% if page.title %}
+        <div class="breadcrumbs">
+          <a href="{{ site.baseurl }}/">Home</a> / {{ page.title }}
+        </div>
+      {% endif %}
+
+      {{ content }}
+
+      <footer class="site-footer">
+        <hr>
+        <p>
+          <strong>Defense Catalyst Documentation</strong><br>
+          Last updated: {{ site.time | date: "%B %Y" }}<br>
+          <a href="{{ site.baseurl }}/changelog">Changelog</a> | 
+          <a href="{{ site.baseurl }}/contact-support">Contact Support</a> | 
+          <a href="{{ site.baseurl }}/glossary">Glossary</a> | 
+          <a href="{{ site.baseurl }}/faq">FAQ</a>
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
