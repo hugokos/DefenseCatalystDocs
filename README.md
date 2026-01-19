@@ -2,7 +2,9 @@
 
 Official user documentation for Defense Catalyst Missions - AI-powered workflow automation for defense operations.
 
-🌐 **Live Site**: https://yourusername.github.io/DefenseCatalystDocs/ *(Update after deployment)*
+🌐 **Live Site**: https://docs.defensecatalyst.com/
+
+> **Note**: Custom domain configured. See [DNS_SETUP.md](DNS_SETUP.md) for DNS configuration instructions.
 
 ## About
 
@@ -45,9 +47,9 @@ This site automatically deploys to GitHub Pages when changes are pushed to the `
    # Then push this directory
    git init
    git add .
-   git commit -m "Initial documentation site"
+   git commit -m "docs: initial documentation site"
    git branch -M main
-   git remote add origin https://github.com/yourusername/DefenseCatalystDocs.git
+   git remote add origin https://github.com/hugokos/DefenseCatalystDocs.git
    git push -u origin main
    ```
 
@@ -58,10 +60,10 @@ This site automatically deploys to GitHub Pages when changes are pushed to the `
    - Branch: `main` / `root`
    - Click Save
 
-3. **Update Configuration**
-   - Edit `_config.yml`
-   - Update `url` to your GitHub username
-   - Commit and push changes
+3. **Configure Custom Domain** (Already Done)
+   - CNAME file created with `docs.defensecatalyst.com`
+   - _config.yml updated with custom domain URL
+   - See [DNS_SETUP.md](DNS_SETUP.md) for DNS configuration steps
 
 ## Structure
 

@@ -56,29 +56,21 @@ git push -u origin main
 
 GitHub will start building your site. This takes 1-2 minutes.
 
-### 4. Update Configuration
+### 4. Configure Custom Domain
 
-Once deployed, update the site URL:
+The site is configured for custom domain: **https://docs.defensecatalyst.com/**
 
-1. Note your GitHub Pages URL (shown in Settings > Pages)
-   - Format: `https://YOUR_USERNAME.github.io/DefenseCatalystDocs/`
+**DNS Setup Required:**
+1. See [DNS_SETUP.md](DNS_SETUP.md) for detailed instructions
+2. Add CNAME record: `docs` → `hugokos.github.io`
+3. Wait for DNS propagation (15 min - 48 hours)
+4. Configure in GitHub Settings > Pages > Custom domain
+5. Enable "Enforce HTTPS" after verification
 
-2. Edit `_config.yml`:
-   ```yaml
-   url: "https://YOUR_USERNAME.github.io"  # Replace YOUR_USERNAME
-   ```
-
-3. Edit `README.md`:
-   ```markdown
-   🌐 **Live Site**: https://YOUR_USERNAME.github.io/DefenseCatalystDocs/
-   ```
-
-4. Commit and push:
-   ```bash
-   git add _config.yml README.md
-   git commit -m "Update site URL configuration"
-   git push
-   ```
+**Current Configuration:**
+- ✅ `_config.yml`: `url: "https://docs.defensecatalyst.com"`, `baseurl: ""`
+- ✅ `CNAME` file: `docs.defensecatalyst.com`
+- ✅ `README.md`: Updated with custom domain URL
 
 ### 5. Verify Deployment
 

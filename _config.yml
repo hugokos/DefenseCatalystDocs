@@ -3,8 +3,8 @@
 # Site settings
 title: Defense Catalyst Documentation
 description: AI-powered workflow automation for defense operations
-baseurl: "/DefenseCatalystDocs"
-url: "https://yourusername.github.io"  # UPDATE THIS with your GitHub username
+baseurl: ""
+url: "https://docs.defensecatalyst.com"
 
 # Theme
 theme: jekyll-theme-cayman
