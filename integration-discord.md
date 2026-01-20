@@ -463,7 +463,7 @@ Content: ✅ Deployment to production completed successfully!
       "value": "• Fixed login bug\n• Updated dependencies\n• Performance improvements"
     }
   ],
-  "timestamp": "2025-01-18T10:30:00Z",
+  "timestamp": "2026-01-18T10:30:00Z",
   "footer": {
     "text": "Defense Catalyst CI/CD"
   }
@@ -497,7 +497,7 @@ Content: ✅ Deployment to production completed successfully!
       "value": "Check database server status"
     }
   ],
-  "timestamp": "2025-01-18T10:30:00Z"
+  "timestamp": "2026-01-18T10:30:00Z"
 }
 ```
 
@@ -515,10 +515,10 @@ Content: ✅ Deployment to production completed successfully!
 
 ## Related Documentation
 
-- [Core Concepts: Actions](04-core-concepts.md#triggers-vs-actions)
-- [Slack Integration](06-integration-slack.md) (similar patterns)
-- [Troubleshooting: Rate Limits](07-troubleshooting-hub.md#rate-limits--timeouts)
-- [Error Reference](08-error-reference.md)
+- [Core Concepts: Actions](core-concepts.md#triggers-vs-actions)
+- [Slack Integration](integration-slack.md) (similar patterns)
+- [Troubleshooting: Rate Limits](troubleshooting-hub.md#rate-limits--timeouts)
+- [Error Reference](error-reference.md)
 
 ---
 
@@ -527,4 +527,5 @@ Content: ✅ Deployment to production completed successfully!
 - **Discord API Docs**: [discord.com/developers/docs](https://discord.com/developers/docs)
 - **Embed Visualizer**: [leovoel.github.io/embed-visualizer](https://leovoel.github.io/embed-visualizer/)
 - **Color Picker**: [spycolor.com](https://www.spycolor.com)
-- **Support**: [Contact Support](13-contact-support.md) with webhook URL (safe to share) or error message
+- **Support**: [Contact Support](contact-support.md) with webhook URL (safe to share) or error message
+

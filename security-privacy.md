@@ -548,7 +548,7 @@ External Services (via your connections)
 - [Privacy Policy](https://defensecatalyst.com/privacy) - Full privacy policy
 - [Terms of Service](https://defensecatalyst.com/terms) - Terms and conditions
 - [Acceptable Use Policy](https://defensecatalyst.com/aup) - Usage guidelines
-- [Contact Support](13-contact-support.md) - Get help
+- [Contact Support](contact-support.md) - Get help
 
 ---
 
@@ -596,3 +596,4 @@ External Services (via your connections)
 - [ ] Error handling implemented
 - [ ] External data validated
 - [ ] Tested before production
+

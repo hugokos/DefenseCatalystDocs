@@ -150,4 +150,5 @@ Defense Catalyst Missions is a specialized workflow automation platform optimize
 
 ---
 
-*Last Updated: January 2025 | Documentation Version 1.0.0*
+*Last Updated: January 2026 | Documentation Version 1.0.0*
+

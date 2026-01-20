@@ -4,11 +4,11 @@
 
 This page tracks all updates, new features, bug fixes, and changes to Defense Catalyst. Check back regularly to stay informed about what's new.
 
-**Latest Update**: January 2025
+**Latest Update**: January 2026
 
 ---
 
-## January 2025
+## January 2026
 
 ### 🎉 New Features
 
@@ -317,7 +317,7 @@ This page tracks all updates, new features, bug fixes, and changes to Defense Ca
 
 ## Breaking Changes
 
-### January 2025
+### January 2026
 
 **None** - All changes backward compatible
 
@@ -404,7 +404,7 @@ We value your feedback on new features and changes!
 
 | Version | Release Date | Highlights |
 |---------|--------------|------------|
-| 1.2.0 | January 2025 | AI Copilot, Bulk operations |
+| 1.2.0 | January 2026 | AI Copilot, Bulk operations |
 | 1.1.0 | December 2024 | Defense branding, Templates |
 | 1.0.0 | September 2024 | Initial release |
 
@@ -412,10 +412,10 @@ We value your feedback on new features and changes!
 
 ## Related Documentation
 
-- [Getting Started](02-getting-started.md) - Learn the basics
-- [Integrations Directory](05-integrations-directory.md) - Browse integrations
-- [Contact Support](13-contact-support.md) - Get help
-- [FAQ](15-faq.md) - Common questions
+- [Getting Started](getting-started.md) - Learn the basics
+- [Integrations Directory](integrations-directory.md) - Browse integrations
+- [Contact Support](contact-support.md) - Get help
+- [FAQ](faq.md) - Common questions
 
 ---
 
@@ -428,3 +428,4 @@ Older changelog entries (6+ months) are archived for reference.
 ---
 
 **Last Updated**: January 18, 2025
+

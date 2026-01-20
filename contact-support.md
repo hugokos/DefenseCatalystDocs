@@ -108,7 +108,7 @@ Save time by checking these resources first:
 - Include timezone
 - Be as specific as possible
 
-**Format**: `2025-01-18 14:30:00 UTC`
+**Format**: `2026-01-18 14:30:00 UTC`
 
 **Why We Need It**: Helps us find relevant logs
 
@@ -216,7 +216,7 @@ REQUIRED INFORMATION:
 Workspace ID: ws_xxxxxxxxxxxxx
 Flow ID: flow_xxxxxxxxxxxxx (if applicable)
 Run ID: run_xxxxxxxxxxxxx (if applicable)
-Timestamp: 2025-01-18 14:30:00 UTC
+Timestamp: 2026-01-18 14:30:00 UTC
 
 ERROR MESSAGE:
 [Paste exact error message here]
@@ -568,11 +568,12 @@ ATTACHMENTS:
 
 ## Related Documentation
 
-- [Troubleshooting Hub](07-troubleshooting-hub.md) - Self-service solutions
-- [Error Reference](08-error-reference.md) - Error codes
-- [FAQ](15-faq.md) - Common questions
-- [Getting Started](02-getting-started.md) - Basic help
+- [Troubleshooting Hub](troubleshooting-hub.md) - Self-service solutions
+- [Error Reference](error-reference.md) - Error codes
+- [FAQ](faq.md) - Common questions
+- [Getting Started](getting-started.md) - Basic help
 
 ---
 
 **We're here to help!** Don't hesitate to reach out if you need assistance.
+

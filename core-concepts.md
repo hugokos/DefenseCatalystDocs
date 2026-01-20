@@ -863,18 +863,19 @@ Move flows from development to production:
 
 ## Next Steps
 
-**[Build Your First Workflow →](03-first-workflow-tutorial.md)**  
+**[Build Your First Workflow →](first-workflow-tutorial.md)**  
 Put these concepts into practice with a hands-on tutorial
 
-**[Integrations Directory →](05-integrations-directory.md)**  
+**[Integrations Directory →](integrations-directory.md)**  
 Explore 280+ integrations you can use in your flows
 
-**[Troubleshooting Hub →](07-troubleshooting-hub.md)**  
+**[Troubleshooting Hub →](troubleshooting-hub.md)**  
 Learn how to diagnose and fix common issues
 
-**[Runs, Logs & Debugging →](09-runs-logs-debugging.md)**  
+**[Runs, Logs & Debugging →](runs-logs-debugging.md)**  
 Master the tools for monitoring and debugging flows
 
 ---
 
 **Need help?** Contact support at help@defensecatalyst.com
+

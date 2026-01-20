@@ -190,4 +190,5 @@ Follow the steps in [QUICK_SETUP.md](QUICK_SETUP.md) or [DEPLOYMENT.md](DEPLOYME
 
 ---
 
-**Last Updated**: January 2025
+**Last Updated**: January 2026
+

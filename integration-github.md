@@ -399,10 +399,10 @@ Actions:
 
 ## Related Documentation
 
-- [Core Concepts: Triggers](04-core-concepts.md#triggers-vs-actions)
-- [Troubleshooting: Connection Problems](07-troubleshooting-hub.md#connectionauth-problems)
-- [Rate Limits](07-troubleshooting-hub.md#rate-limits--timeouts)
-- [Error Reference](08-error-reference.md)
+- [Core Concepts: Triggers](core-concepts.md#triggers-vs-actions)
+- [Troubleshooting: Connection Problems](troubleshooting-hub.md#connectionauth-problems)
+- [Rate Limits](troubleshooting-hub.md#rate-limits--timeouts)
+- [Error Reference](error-reference.md)
 
 ## Example Use Cases
 
@@ -442,6 +442,7 @@ Push to docs/ → Update external docs → Notify writers
 ## Need Help?
 
 - Check [GitHub API Documentation](https://docs.github.com/en/rest)
-- Review [Troubleshooting Hub](07-troubleshooting-hub.md)
-- Contact [Support](13-contact-support.md)
+- Review [Troubleshooting Hub](troubleshooting-hub.md)
+- Contact [Support](contact-support.md)
 - Join community discussions
+

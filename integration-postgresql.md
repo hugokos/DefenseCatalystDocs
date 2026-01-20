@@ -136,7 +136,7 @@ $1: active
       "id": 1,
       "name": "John Doe",
       "email": "john@example.com",
-      "created_at": "2025-01-15T10:30:00Z"
+      "created_at": "2026-01-15T10:30:00Z"
     }
   ],
   "rowCount": 1
@@ -531,11 +531,11 @@ ORDER BY date DESC
 
 ## Related Documentation
 
-- [Core Concepts: Connections](04-core-concepts.md#connections--authentication)
-- [Core Concepts: Data Mapping](04-core-concepts.md#data-mapping)
-- [Troubleshooting: Connection Problems](07-troubleshooting-hub.md#connectionauth-problems)
-- [Security & Privacy](11-security-privacy.md)
-- [Error Reference](08-error-reference.md)
+- [Core Concepts: Connections](core-concepts.md#connections--authentication)
+- [Core Concepts: Data Mapping](core-concepts.md#data-mapping)
+- [Troubleshooting: Connection Problems](troubleshooting-hub.md#connectionauth-problems)
+- [Security & Privacy](security-privacy.md)
+- [Error Reference](error-reference.md)
 
 ---
 
@@ -544,4 +544,5 @@ ORDER BY date DESC
 - **PostgreSQL Docs**: [postgresql.org/docs](https://www.postgresql.org/docs/)
 - **SQL Tutorial**: [postgresqltutorial.com](https://www.postgresqltutorial.com)
 - **Query Optimization**: [explain.depesz.com](https://explain.depesz.com)
-- **Support**: [Contact Support](13-contact-support.md) with connection details (no passwords!) and error message
+- **Support**: [Contact Support](contact-support.md) with connection details (no passwords!) and error message
+

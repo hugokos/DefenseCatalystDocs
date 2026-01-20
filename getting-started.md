@@ -118,7 +118,7 @@ Take a moment to explore the interface and familiarize yourself with the navigat
 
 The best way to learn is by doing. Follow our flagship tutorial to create your first automation:
 
-**[→ Build Your First Workflow Tutorial](03-first-workflow-tutorial.md)**
+**[→ Build Your First Workflow Tutorial](first-workflow-tutorial.md)**
 
 This hands-on guide walks you through creating a complete workflow from scratch, teaching you:
 - How to create a flow
@@ -135,7 +135,7 @@ This hands-on guide walks you through creating a complete workflow from scratch,
 
 Defense Catalyst supports 280+ integrations with popular apps and services. Browse the directory to see what you can connect:
 
-**[→ Integrations Directory](05-integrations-directory.md)**
+**[→ Integrations Directory](integrations-directory.md)**
 
 **Popular integrations:**
 - Communication: Slack, Discord, Microsoft Teams, Email
@@ -154,7 +154,7 @@ Understanding how to monitor and debug your workflows is crucial. Learn how to:
 - Debug failed runs
 - Understand error messages
 
-**[→ Runs, Logs & Debugging Guide](09-runs-logs-debugging.md)**
+**[→ Runs, Logs & Debugging Guide](runs-logs-debugging.md)**
 
 ---
 
@@ -164,13 +164,13 @@ Once you've completed your first workflow, explore these topics to level up:
 
 ### Deepen Your Knowledge
 
-**[Core Concepts →](04-core-concepts.md)**  
+**[Core Concepts →](core-concepts.md)**  
 Deep dive into triggers, actions, data mapping, and more
 
-**[Troubleshooting Hub →](07-troubleshooting-hub.md)**  
+**[Troubleshooting Hub →](troubleshooting-hub.md)**  
 Learn how to diagnose and fix common issues
 
-**[Security & Privacy →](11-security-privacy.md)**  
+**[Security & Privacy →](security-privacy.md)**  
 Understand how Defense Catalyst protects your data
 
 ---
@@ -204,8 +204,8 @@ Start with these common automation patterns:
 ### Get Help
 
 **Need assistance?**
-- Check the [Troubleshooting Hub](07-troubleshooting-hub.md) for common issues
-- Review the [FAQ](15-faq.md) for quick answers
+- Check the [Troubleshooting Hub](troubleshooting-hub.md) for common issues
+- Review the [FAQ](faq.md) for quick answers
 - Contact support at help@defensecatalyst.com
 
 ---
@@ -265,6 +265,7 @@ Defense Catalyst is built specifically for defense technology and DoD operations
 
 ---
 
-**Ready to build your first workflow?** → [Start the Tutorial](03-first-workflow-tutorial.md)
+**Ready to build your first workflow?** → [Start the Tutorial](first-workflow-tutorial.md)
 
-**Have questions?** → [Contact Support](13-contact-support.md)
+**Have questions?** → [Contact Support](contact-support.md)
+

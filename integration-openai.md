@@ -381,10 +381,10 @@ Text: {{trigger.text}}
 
 ## Related Documentation
 
-- [Core Concepts: Data Mapping](04-core-concepts.md#data-mapping)
-- [Troubleshooting: Rate Limits](07-troubleshooting-hub.md#rate-limits--timeouts)
-- [Error Reference](08-error-reference.md)
-- [Limits & Reliability](10-limits-reliability.md)
+- [Core Concepts: Data Mapping](core-concepts.md#data-mapping)
+- [Troubleshooting: Rate Limits](troubleshooting-hub.md#rate-limits--timeouts)
+- [Error Reference](error-reference.md)
+- [Limits & Reliability](limits-reliability.md)
 
 ## Example Use Cases
 
@@ -406,6 +406,7 @@ File uploaded → OpenAI (summarize) → Send summary via Slack
 ## Need Help?
 
 - Check [OpenAI Documentation](https://platform.openai.com/docs)
-- Review [Troubleshooting Hub](07-troubleshooting-hub.md)
-- Contact [Support](13-contact-support.md)
+- Review [Troubleshooting Hub](troubleshooting-hub.md)
+- Contact [Support](contact-support.md)
 - Join community discussions
+

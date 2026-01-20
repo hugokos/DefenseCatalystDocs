@@ -25,9 +25,9 @@ Defense Catalyst is:
 
 ### How do I get started?
 
-1. Read the [Getting Started Guide](02-getting-started.md)
-2. Follow the [Build Your First Workflow Tutorial](03-first-workflow-tutorial.md)
-3. Explore the [Integrations Directory](05-integrations-directory.md)
+1. Read the [Getting Started Guide](getting-started.md)
+2. Follow the [Build Your First Workflow Tutorial](first-workflow-tutorial.md)
+3. Explore the [Integrations Directory](integrations-directory.md)
 4. Check out example workflows in your workspace
 
 ### Is there a free trial?
@@ -92,7 +92,7 @@ Common causes:
 3. External service isn't sending webhooks
 4. Webhook signature validation is failing
 
-See [Troubleshooting: Workflow Won't Trigger](07-troubleshooting-hub.md#my-workflow-wont-trigger)
+See [Troubleshooting: Workflow Won't Trigger](troubleshooting-hub.md#my-workflow-wont-trigger)
 
 ---
 
@@ -100,11 +100,11 @@ See [Troubleshooting: Workflow Won't Trigger](07-troubleshooting-hub.md#my-workf
 
 ### How many integrations does Defense Catalyst support?
 
-Defense Catalyst supports 280+ integrations including Slack, Google Sheets, GitHub, OpenAI, and many more. See the [Integrations Directory](05-integrations-directory.md) for the full list.
+Defense Catalyst supports 280+ integrations including Slack, Google Sheets, GitHub, OpenAI, and many more. See the [Integrations Directory](integrations-directory.md) for the full list.
 
 ### Can I request a new integration?
 
-Yes! Contact your administrator or [submit a request](13-contact-support.md) with details about the integration you need.
+Yes! Contact your administrator or [submit a request](contact-support.md) with details about the integration you need.
 
 ### How do I connect an app?
 
@@ -142,7 +142,7 @@ Common causes:
 3. Data structure is different than expected
 4. Field name has changed
 
-See [Troubleshooting: Data Mapping Issues](07-troubleshooting-hub.md#my-data-mapping-is-emptywrong)
+See [Troubleshooting: Data Mapping Issues](troubleshooting-hub.md#my-data-mapping-is-emptywrong)
 
 ### Can I transform data?
 
@@ -193,7 +193,7 @@ Check the run details to see which step failed and the error message. Common cau
 - Timeout
 - Missing required fields
 
-See [Troubleshooting: Run Failed](07-troubleshooting-hub.md#my-run-failed)
+See [Troubleshooting: Run Failed](troubleshooting-hub.md#my-run-failed)
 
 ---
 
@@ -209,7 +209,7 @@ Yes, both Defense Catalyst and external APIs have rate limits:
 - **Defense Catalyst**: Varies by plan
 - **External APIs**: Varies by service (check integration docs)
 
-See [Limits & Reliability](10-limits-reliability.md)
+See [Limits & Reliability](limits-reliability.md)
 
 ### Can flows run in parallel?
 
@@ -232,7 +232,7 @@ Yes! Defense Catalyst:
 - Follows DoD security standards
 - Provides audit logging
 
-See [Security & Privacy](11-security-privacy.md)
+See [Security & Privacy](security-privacy.md)
 
 ### Who can see my flows?
 
@@ -325,11 +325,11 @@ Contact your administrator to discuss plan upgrades.
 3. Review recent run history for errors
 4. Test each step individually
 5. Check connection status
-6. Review the [Troubleshooting Hub](07-troubleshooting-hub.md)
+6. Review the [Troubleshooting Hub](troubleshooting-hub.md)
 
 ### Where can I find error codes?
 
-See the [Error Reference](08-error-reference.md) for a complete list of error codes and their meanings.
+See the [Error Reference](error-reference.md) for a complete list of error codes and their meanings.
 
 ### How do I debug a complex flow?
 
@@ -337,11 +337,11 @@ See the [Error Reference](08-error-reference.md) for a complete list of error co
 2. Use the run history to see step-by-step execution
 3. Add logging steps to track data flow
 4. Simplify the flow to isolate the issue
-5. Check the [Debugging Guide](09-runs-logs-debugging.md)
+5. Check the [Debugging Guide](runs-logs-debugging.md)
 
 ### Can I get help from support?
 
-Yes! See [Contact Support](13-contact-support.md) for how to reach our support team.
+Yes! See [Contact Support](contact-support.md) for how to reach our support team.
 
 ---
 
@@ -353,7 +353,7 @@ Yes! Use the Code step to write custom JavaScript or TypeScript. You have access
 
 ### Can I call my own APIs?
 
-Yes! Use the HTTP Request action to call any API endpoint. See [HTTP Request Integration](06-integration-http.md).
+Yes! Use the HTTP Request action to call any API endpoint. See [HTTP Request Integration](integration-http.md).
 
 ### Can I use databases?
 
@@ -364,11 +364,11 @@ Yes! Defense Catalyst supports:
 - Microsoft SQL Server
 - And more...
 
-See [PostgreSQL Integration](06-integration-postgresql.md) for an example.
+See [PostgreSQL Integration](integration-postgresql.md) for an example.
 
 ### Can I schedule flows?
 
-Yes! Use the Schedule trigger with cron expressions to run flows at specific times or intervals. See [Schedule Integration](06-integration-schedule.md).
+Yes! Use the Schedule trigger with cron expressions to run flows at specific times or intervals. See [Schedule Integration](integration-schedule.md).
 
 ### Can I create reusable sub-flows?
 
@@ -411,15 +411,15 @@ Yes! Common patterns:
 
 ### Where can I find documentation?
 
-- [Getting Started](02-getting-started.md)
-- [Core Concepts](04-core-concepts.md)
-- [Integrations Directory](05-integrations-directory.md)
-- [Troubleshooting Hub](07-troubleshooting-hub.md)
-- [All Documentation](01-home.md)
+- [Getting Started](getting-started.md)
+- [Core Concepts](core-concepts.md)
+- [Integrations Directory](integrations-directory.md)
+- [Troubleshooting Hub](troubleshooting-hub.md)
+- [All Documentation](index.md)
 
 ### How do I contact support?
 
-See [Contact Support](13-contact-support.md) for support options and what information to include in your request.
+See [Contact Support](contact-support.md) for support options and what information to include in your request.
 
 ### Is there a community forum?
 
@@ -427,15 +427,16 @@ Check with your administrator for internal community resources or forums.
 
 ### Can I request new features?
 
-Yes! Contact your administrator or [submit a feature request](13-contact-support.md) with details about what you need.
+Yes! Contact your administrator or [submit a feature request](contact-support.md) with details about what you need.
 
 ---
 
 ## Still Have Questions?
 
 If your question isn't answered here:
-1. Search the [documentation](01-home.md)
-2. Check the [Troubleshooting Hub](07-troubleshooting-hub.md)
-3. [Contact Support](13-contact-support.md)
+1. Search the [documentation](index.md)
+2. Check the [Troubleshooting Hub](troubleshooting-hub.md)
+3. [Contact Support](contact-support.md)
 
 We're here to help! 🚀
+

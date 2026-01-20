@@ -558,7 +558,7 @@ When you need help debugging, provide:
 **Timestamp**:
 - When the issue occurred
 - Include timezone
-- Format: `2025-01-18 14:30:00 UTC`
+- Format: `2026-01-18 14:30:00 UTC`
 
 **Error Message**:
 - Exact error text
@@ -596,7 +596,7 @@ Subject: Flow Execution Failed - [Brief Description]
 Workspace ID: ws_xxxxxxxxxxxxx
 Flow ID: flow_xxxxxxxxxxxxx
 Run ID: run_xxxxxxxxxxxxx
-Timestamp: 2025-01-18 14:30:00 UTC
+Timestamp: 2026-01-18 14:30:00 UTC
 
 Error Message:
 [Exact error text]
@@ -661,10 +661,10 @@ Screenshots:
 
 ## Related Documentation
 
-- [Troubleshooting Hub](07-troubleshooting-hub.md) - Symptom-based troubleshooting
-- [Error Reference](08-error-reference.md) - Error codes and meanings
-- [Core Concepts: Runs](04-core-concepts.md#runs--execution) - Understanding runs
-- [Contact Support](13-contact-support.md) - Getting help
+- [Troubleshooting Hub](troubleshooting-hub.md) - Symptom-based troubleshooting
+- [Error Reference](error-reference.md) - Error codes and meanings
+- [Core Concepts: Runs](core-concepts.md#runs--execution) - Understanding runs
+- [Contact Support](contact-support.md) - Getting help
 
 ---
 
@@ -693,3 +693,4 @@ Screenshots:
 - System error (not configuration)
 - Need help understanding logs
 - Suspected platform issue
+

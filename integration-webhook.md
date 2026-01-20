@@ -513,10 +513,10 @@ Action 4: Notify team in Slack
 
 ## Related Documentation
 
-- [Build Your First Workflow](03-first-workflow-tutorial.md) - Uses webhook trigger
-- [HTTP Request Integration](06-integration-http.md) - Send webhooks to other services
-- [Core Concepts: Triggers](04-core-concepts.md#triggers-vs-actions)
-- [Troubleshooting: Workflow Won't Trigger](07-troubleshooting-hub.md#my-workflow-wont-trigger)
+- [Build Your First Workflow](first-workflow-tutorial.md) - Uses webhook trigger
+- [HTTP Request Integration](integration-http.md) - Send webhooks to other services
+- [Core Concepts: Triggers](core-concepts.md#triggers-vs-actions)
+- [Troubleshooting: Workflow Won't Trigger](troubleshooting-hub.md#my-workflow-wont-trigger)
 
 ---
 
@@ -524,4 +524,5 @@ Action 4: Notify team in Slack
 
 **Defense Catalyst Support:** help@defensecatalyst.com
 
-**Common Issues:** [Troubleshooting Hub](07-troubleshooting-hub.md)
+**Common Issues:** [Troubleshooting Hub](troubleshooting-hub.md)
+

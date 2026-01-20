@@ -295,10 +295,10 @@ If you're hitting Google Sheets limits:
 
 ## Related Documentation
 
-- [Core Concepts: Data Mapping](04-core-concepts.md#data-mapping)
-- [Troubleshooting: Connection Problems](07-troubleshooting-hub.md#connectionauth-problems)
-- [Limits & Reliability](10-limits-reliability.md)
-- [First Workflow Tutorial](03-first-workflow-tutorial.md)
+- [Core Concepts: Data Mapping](core-concepts.md#data-mapping)
+- [Troubleshooting: Connection Problems](troubleshooting-hub.md#connectionauth-problems)
+- [Limits & Reliability](limits-reliability.md)
+- [First Workflow Tutorial](first-workflow-tutorial.md)
 
 ## Example Use Cases
 
@@ -319,6 +319,7 @@ New row → Send approval request → Update status column
 
 ## Need Help?
 
-- Check [Troubleshooting Hub](07-troubleshooting-hub.md)
-- Review [Error Reference](08-error-reference.md)
-- Contact [Support](13-contact-support.md)
+- Check [Troubleshooting Hub](troubleshooting-hub.md)
+- Review [Error Reference](error-reference.md)
+- Contact [Support](contact-support.md)
+

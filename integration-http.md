@@ -520,11 +520,11 @@ Headers:
 
 ## Related Documentation
 
-- [Core Concepts: Actions](04-core-concepts.md#triggers-vs-actions)
-- [Core Concepts: Data Mapping](04-core-concepts.md#data-mapping)
-- [Troubleshooting: Connection Problems](07-troubleshooting-hub.md#connectionauth-problems)
-- [Error Reference](08-error-reference.md)
-- [Security & Privacy](11-security-privacy.md)
+- [Core Concepts: Actions](core-concepts.md#triggers-vs-actions)
+- [Core Concepts: Data Mapping](core-concepts.md#data-mapping)
+- [Troubleshooting: Connection Problems](troubleshooting-hub.md#connectionauth-problems)
+- [Error Reference](error-reference.md)
+- [Security & Privacy](security-privacy.md)
 
 ---
 
@@ -533,4 +533,5 @@ Headers:
 - **API Testing**: Use [Postman](https://www.postman.com) or [curl](https://curl.se) to test APIs
 - **JSON Validation**: Use [JSONLint](https://jsonlint.com) to validate JSON
 - **HTTP Status Codes**: See [HTTP Status Dogs](https://httpstatusdogs.com) for reference
-- **Support**: [Contact Support](13-contact-support.md) with your request details and error message
+- **Support**: [Contact Support](contact-support.md) with your request details and error message
+

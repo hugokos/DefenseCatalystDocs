@@ -148,8 +148,8 @@ For precise control, use cron expressions:
 **Output Data**:
 ```json
 {
-  "scheduledTime": "2025-01-18T09:00:00Z",
-  "actualTime": "2025-01-18T09:00:01.234Z",
+  "scheduledTime": "2026-01-18T09:00:00Z",
+  "actualTime": "2026-01-18T09:00:01.234Z",
   "timezone": "America/New_York"
 }
 ```
@@ -307,10 +307,10 @@ For dynamic schedules, use external schedulers:
 
 ## Related Documentation
 
-- [Core Concepts: Triggers](04-core-concepts.md#triggers-vs-actions)
-- [Runs & Debugging](09-runs-logs-debugging.md)
-- [Troubleshooting: Workflow Won't Trigger](07-troubleshooting-hub.md#my-workflow-wont-trigger)
-- [Limits & Reliability](10-limits-reliability.md)
+- [Core Concepts: Triggers](core-concepts.md#triggers-vs-actions)
+- [Runs & Debugging](runs-logs-debugging.md)
+- [Troubleshooting: Workflow Won't Trigger](troubleshooting-hub.md#my-workflow-wont-trigger)
+- [Limits & Reliability](limits-reliability.md)
 
 ---
 
@@ -318,4 +318,5 @@ For dynamic schedules, use external schedulers:
 
 - **Cron Validator**: Use [crontab.guru](https://crontab.guru) to validate expressions
 - **Timezone List**: See [IANA timezone database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
-- **Support**: [Contact Support](13-contact-support.md) with your cron expression and expected behavior
+- **Support**: [Contact Support](contact-support.md) with your cron expression and expected behavior
+

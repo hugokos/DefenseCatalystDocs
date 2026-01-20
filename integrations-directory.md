@@ -21,10 +21,10 @@ Connect messaging and communication platforms.
 
 | Integration | Description | Auth Type | Setup Guide |
 |------------|-------------|-----------|-------------|
-| **Slack** | Send messages, manage channels, post updates | OAuth | [Setup Guide](06-integration-slack.md) |
-| **Discord** | Send messages, manage servers, post notifications | OAuth / Bot Token | [Setup Guide](06-integration-discord.md) |
+| **Slack** | Send messages, manage channels, post updates | OAuth | [Setup Guide](integration-slack.md) |
+| **Discord** | Send messages, manage servers, post notifications | OAuth / Bot Token | [Setup Guide](integration-discord.md) |
 | **Microsoft Teams** | Post messages, manage teams, send notifications | OAuth | Coming Soon |
-| **Email (SMTP)** | Send emails via any SMTP server | Username/Password | [Setup Guide](06-integration-email.md) |
+| **Email (SMTP)** | Send emails via any SMTP server | Username/Password | [Setup Guide](integration-email.md) |
 | **Gmail** | Send and receive emails, manage labels | OAuth | Coming Soon |
 | **Outlook** | Send and receive emails, manage folders | OAuth | Coming Soon |
 | **Twilio** | Send SMS, make calls, manage phone numbers | API Key | Coming Soon |
@@ -43,9 +43,9 @@ Work with spreadsheets, databases, and data storage.
 
 | Integration | Description | Auth Type | Setup Guide |
 |------------|-------------|-----------|-------------|
-| **Google Sheets** | Read and write spreadsheet data | OAuth | [Setup Guide](06-integration-google-sheets.md) |
+| **Google Sheets** | Read and write spreadsheet data | OAuth | [Setup Guide](integration-google-sheets.md) |
 | **Airtable** | Manage records in bases and tables | API Key | Coming Soon |
-| **PostgreSQL** | Query and update PostgreSQL databases | Username/Password | [Setup Guide](06-integration-postgresql.md) |
+| **PostgreSQL** | Query and update PostgreSQL databases | Username/Password | [Setup Guide](integration-postgresql.md) |
 | **MySQL** | Query and update MySQL databases | Username/Password | Coming Soon |
 | **MongoDB** | Work with MongoDB collections | Connection String | Coming Soon |
 | **Redis** | Cache data, manage key-value store | Connection String | Coming Soon |
@@ -67,7 +67,7 @@ Integrate AI capabilities into your workflows.
 
 | Integration | Description | Auth Type | Setup Guide |
 |------------|-------------|-----------|-------------|
-| **OpenAI** | GPT models, embeddings, image generation | API Key | [Setup Guide](06-integration-openai.md) |
+| **OpenAI** | GPT models, embeddings, image generation | API Key | [Setup Guide](integration-openai.md) |
 | **Anthropic** | Claude models for advanced reasoning | API Key | Coming Soon |
 | **Hugging Face** | Access thousands of AI models | API Key | Coming Soon |
 | **Google AI** | Gemini models and AI services | API Key | Coming Soon |
@@ -88,7 +88,7 @@ Automate development workflows and CI/CD pipelines.
 
 | Integration | Description | Auth Type | Setup Guide |
 |------------|-------------|-----------|-------------|
-| **GitHub** | Manage repos, issues, PRs, and actions | OAuth / Token | [Setup Guide](06-integration-github.md) |
+| **GitHub** | Manage repos, issues, PRs, and actions | OAuth / Token | [Setup Guide](integration-github.md) |
 | **GitLab** | Manage projects, issues, and merge requests | OAuth / Token | Coming Soon |
 | **Jira** | Create and update issues and projects | OAuth / API Key | Coming Soon |
 | **Jenkins** | Trigger builds and monitor jobs | API Key | Coming Soon |
@@ -156,9 +156,9 @@ Essential utilities and core functionality.
 
 | Integration | Description | Auth Type | Setup Guide |
 |------------|-------------|-----------|-------------|
-| **Webhook** | Receive HTTP requests to trigger flows | None | [Setup Guide](06-integration-webhook.md) |
-| **Schedule** | Run flows on a timer or cron schedule | None | [Setup Guide](06-integration-schedule.md) |
-| **HTTP Request** | Make HTTP/REST API calls | Various | [Setup Guide](06-integration-http.md) |
+| **Webhook** | Receive HTTP requests to trigger flows | None | [Setup Guide](integration-webhook.md) |
+| **Schedule** | Run flows on a timer or cron schedule | None | [Setup Guide](integration-schedule.md) |
+| **HTTP Request** | Make HTTP/REST API calls | Various | [Setup Guide](integration-http.md) |
 | **Code** | Execute custom JavaScript/TypeScript code | None | Coming Soon |
 | **Delay** | Wait for a specified time before continuing | None | Coming Soon |
 | **Conditional** | Branch flow based on conditions | None | Coming Soon |
@@ -343,13 +343,13 @@ Defense Catalyst supports 280+ integrations. If you don't see what you need:
 ### Setup Issues?
 
 - Check the integration's setup guide (linked above)
-- Review the [Troubleshooting Hub](07-troubleshooting-hub.md)
+- Review the [Troubleshooting Hub](troubleshooting-hub.md)
 - Check the service's status page
 - Contact support at help@defensecatalyst.com
 
 ### Security Questions?
 
-- Review [Security & Privacy](11-security-privacy.md)
+- Review [Security & Privacy](security-privacy.md)
 - Check the service's security documentation
 - Contact support for defense-specific requirements
 
@@ -376,6 +376,7 @@ Fetch data from APIs, transform it, and store in your database.
 
 **Ready to connect?** Choose an integration above and follow the setup guide.
 
-**Need more details?** Check out our [Core Concepts](04-core-concepts.md) guide.
+**Need more details?** Check out our [Core Concepts](core-concepts.md) guide.
 
 **Have questions?** Contact help@defensecatalyst.com
+

@@ -365,25 +365,25 @@ Defense Catalyst supports 280+ integrations. Try connecting:
 - GitLab - Manage issues and merge requests
 - Jira - Create and update tickets
 
-**[→ Browse All Integrations](05-integrations-directory.md)**
+**[→ Browse All Integrations](integrations-directory.md)**
 
 ### Learn Advanced Concepts
 
 Deepen your knowledge with these topics:
 
-**[Core Concepts →](04-core-concepts.md)**
+**[Core Concepts →](core-concepts.md)**
 - Advanced data mapping techniques
 - Understanding run statuses and retries
 - Working with arrays and objects
 - Using expressions and transformations
 
-**[Runs, Logs & Debugging →](09-runs-logs-debugging.md)**
+**[Runs, Logs & Debugging →](runs-logs-debugging.md)**
 - Debugging failed runs
 - Understanding error messages
 - Performance optimization
 - Best practices for production workflows
 
-**[Troubleshooting Hub →](07-troubleshooting-hub.md)**
+**[Troubleshooting Hub →](troubleshooting-hub.md)**
 - Common issues and solutions
 - Symptom-based problem solving
 - Error reference guide
@@ -435,13 +435,13 @@ Workflows aren't "set and forget":
 
 ### Need Assistance?
 
-**[Troubleshooting Hub →](07-troubleshooting-hub.md)**  
+**[Troubleshooting Hub →](troubleshooting-hub.md)**  
 Find solutions to common problems
 
-**[FAQ →](15-faq.md)**  
+**[FAQ →](faq.md)**  
 Quick answers to frequently asked questions
 
-**[Contact Support →](13-contact-support.md)**  
+**[Contact Support →](contact-support.md)**  
 Email help@defensecatalyst.com for personalized help
 
 ### Share Your Success
@@ -450,6 +450,7 @@ Built something cool? We'd love to hear about it! Share your workflows and autom
 
 ---
 
-**Ready to build more?** → [Explore Integrations](05-integrations-directory.md)
+**Ready to build more?** → [Explore Integrations](integrations-directory.md)
 
-**Want to go deeper?** → [Core Concepts](04-core-concepts.md)
+**Want to go deeper?** → [Core Concepts](core-concepts.md)
+

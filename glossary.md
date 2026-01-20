@@ -311,4 +311,5 @@ A markup language used for encoding documents in a format readable by both human
 
 ## Need More Definitions?
 
-If you encounter a term not listed here, please [contact support](13-contact-support.md) and we'll add it to the glossary.
+If you encounter a term not listed here, please [contact support](contact-support.md) and we'll add it to the glossary.
+

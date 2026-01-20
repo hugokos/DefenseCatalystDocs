@@ -599,9 +599,9 @@ Action 3: Send to Slack #daily-reports
 
 ## Related Documentation
 
-- [Core Concepts: Connections](04-core-concepts.md#connections--authentication)
-- [Troubleshooting: Connection Problems](07-troubleshooting-hub.md#connectionauth-problems)
-- [Build Your First Workflow](03-first-workflow-tutorial.md)
+- [Core Concepts: Connections](core-concepts.md#connections--authentication)
+- [Troubleshooting: Connection Problems](troubleshooting-hub.md#connectionauth-problems)
+- [Build Your First Workflow](first-workflow-tutorial.md)
 
 ---
 
@@ -611,4 +611,5 @@ Action 3: Send to Slack #daily-reports
 
 **Defense Catalyst Support:** help@defensecatalyst.com
 
-**Common Issues:** [Troubleshooting Hub](07-troubleshooting-hub.md)
+**Common Issues:** [Troubleshooting Hub](troubleshooting-hub.md)
+

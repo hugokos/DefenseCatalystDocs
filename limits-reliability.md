@@ -547,10 +547,10 @@ Maximum: 5 attempts
 
 ## Related Documentation
 
-- [Troubleshooting: Rate Limits](07-troubleshooting-hub.md#rate-limits--timeouts)
-- [Error Reference](08-error-reference.md)
-- [Runs & Debugging](09-runs-logs-debugging.md)
-- [Security & Privacy](11-security-privacy.md)
+- [Troubleshooting: Rate Limits](troubleshooting-hub.md#rate-limits--timeouts)
+- [Error Reference](error-reference.md)
+- [Runs & Debugging](runs-logs-debugging.md)
+- [Security & Privacy](security-privacy.md)
 
 ---
 
@@ -578,5 +578,6 @@ Maximum: 5 attempts
 ### Contact
 
 For limit increases or custom requirements:
-- Enterprise sales: [Contact Support](13-contact-support.md)
-- Technical questions: [Support](13-contact-support.md)
+- Enterprise sales: [Contact Support](contact-support.md)
+- Technical questions: [Support](contact-support.md)
+

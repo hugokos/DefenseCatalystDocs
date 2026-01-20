@@ -8,7 +8,7 @@
 4. **Implement prevention** to avoid future issues
 5. **Check related articles** for more information
 
-If you can't find your issue here, check the [Error Reference](08-error-reference.md) or [Contact Support](13-contact-support.md).
+If you can't find your issue here, check the [Error Reference](error-reference.md) or [Contact Support](contact-support.md).
 
 ---
 
@@ -137,10 +137,10 @@ If you can't find your issue here, check the [Error Reference](08-error-referenc
 - ✅ Keep connections active and updated
 
 ### Related Articles
-- [Core Concepts: Triggers](04-core-concepts.md#triggers-vs-actions)
-- [Webhook Integration](06-integration-webhook.md)
-- [Schedule Integration](06-integration-schedule.md)
-- [Error Reference](08-error-reference.md)
+- [Core Concepts: Triggers](core-concepts.md#triggers-vs-actions)
+- [Webhook Integration](integration-webhook.md)
+- [Schedule Integration](integration-schedule.md)
+- [Error Reference](error-reference.md)
 
 ---
 
@@ -269,9 +269,9 @@ If you can't find your issue here, check the [Error Reference](08-error-referenc
 - ✅ Keep connections updated
 
 ### Related Articles
-- [Runs & Debugging Guide](09-runs-logs-debugging.md)
-- [Error Reference](08-error-reference.md)
-- [Connection Management](04-core-concepts.md#connections--authentication)
+- [Runs & Debugging Guide](runs-logs-debugging.md)
+- [Error Reference](error-reference.md)
+- [Connection Management](core-concepts.md#connections--authentication)
 
 ---
 
@@ -387,9 +387,9 @@ If you can't find your issue here, check the [Error Reference](08-error-referenc
 - ✅ Use conditions to handle edge cases
 
 ### Related Articles
-- [Core Concepts: Data Mapping](04-core-concepts.md#data-mapping)
-- [Runs & Debugging](09-runs-logs-debugging.md)
-- [First Workflow Tutorial](03-first-workflow-tutorial.md)
+- [Core Concepts: Data Mapping](core-concepts.md#data-mapping)
+- [Runs & Debugging](runs-logs-debugging.md)
+- [First Workflow Tutorial](first-workflow-tutorial.md)
 
 ---
 
@@ -521,9 +521,9 @@ If you can't find your issue here, check the [Error Reference](08-error-referenc
 - ✅ Keep credentials secure
 
 ### Related Articles
-- [Core Concepts: Connections](04-core-concepts.md#connections--authentication)
-- [Security & Privacy](11-security-privacy.md)
-- [Error Reference](08-error-reference.md)
+- [Core Concepts: Connections](core-concepts.md#connections--authentication)
+- [Security & Privacy](security-privacy.md)
+- [Error Reference](error-reference.md)
 
 ---
 
@@ -658,8 +658,8 @@ Cache results for:
 - ✅ Set appropriate timeouts
 
 ### Related Articles
-- [Limits & Reliability](10-limits-reliability.md)
-- [Error Reference](08-error-reference.md)
+- [Limits & Reliability](limits-reliability.md)
+- [Error Reference](error-reference.md)
 - [Performance Best Practices](#performance-issues)
 
 ---
@@ -799,9 +799,9 @@ Cache results for:
 - ✅ Document webhook configuration
 
 ### Related Articles
-- [Webhook Integration](06-integration-webhook.md)
-- [Security & Privacy](11-security-privacy.md)
-- [Error Reference](08-error-reference.md)
+- [Webhook Integration](integration-webhook.md)
+- [Security & Privacy](security-privacy.md)
+- [Error Reference](error-reference.md)
 
 ---
 
@@ -854,8 +854,8 @@ Cache results for:
 4. Verify results
 
 ### Related Articles
-- [Runs & Debugging](09-runs-logs-debugging.md)
-- [Data Mapping](04-core-concepts.md#data-mapping)
+- [Runs & Debugging](runs-logs-debugging.md)
+- [Data Mapping](core-concepts.md#data-mapping)
 
 ---
 
@@ -882,7 +882,7 @@ Cache results for:
 - Parallel processing
 
 ### Related Articles
-- [Limits & Reliability](10-limits-reliability.md)
+- [Limits & Reliability](limits-reliability.md)
 
 ---
 
@@ -890,10 +890,10 @@ Cache results for:
 
 If you couldn't resolve your issue:
 
-1. Check [Error Reference](08-error-reference.md) for specific errors
-2. Review [Runs & Debugging Guide](09-runs-logs-debugging.md)
-3. Search [FAQ](15-faq.md)
-4. [Contact Support](13-contact-support.md) with details
+1. Check [Error Reference](error-reference.md) for specific errors
+2. Review [Runs & Debugging Guide](runs-logs-debugging.md)
+3. Search [FAQ](faq.md)
+4. [Contact Support](contact-support.md) with details
 
 **When contacting support, include**:
 - Workspace ID
@@ -902,3 +902,4 @@ If you couldn't resolve your issue:
 - Error message
 - Steps to reproduce
 - Screenshots
+
